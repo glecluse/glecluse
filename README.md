@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bonjour, je suis Geoffrey 👋<br>Ancien gendarme et courtier en prêts immobiliers, je me reconvertis dans l'analyse de données.<br><br>À propos de moi :<br>📊 Étudiant en analyse de données via Datarockstars<br>🛠 Compétences : Python (Pandas, NumPy ,BeautifulSoup),  SQL, DataViz (Matplotlib,  Seaborn, PowerBI, Tableau, Looker)<br>📈 Travaillant sur des projets personnels pour affiner mes compétences<br>Connectons-nous !<br>📫 Email : [Votre adresse email]
+Bonjour, je suis Geoffrey 👋<br>Ancien gendarme et courtier en prêts immobiliers, je me reconvertis dans l'analyse de données.<br><br>À propos de moi :<br>📊 Étudiant en analyse de données via Datarockstars<br>🛠 Compétences : Python (Pandas, NumPy ,BeautifulSoup),  SQL, DataViz (Matplotlib,  Seaborn, PowerBI, Tableau, Looker)<br>📈 Travaillant sur des projets personnels pour affiner mes compétences<br>Connectons-nous !<br>📫 Email : [geoffrey.lecluse45@gmail.com]
 
 
 # 💻 Tech Stack:
